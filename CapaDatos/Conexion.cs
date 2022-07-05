@@ -5,7 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 
 //En esta capa los datos se van a guardar y la misma se va a encargar de acceder a los mismos
-//Texto de prueba
 
 namespace CapaDatos
 {
